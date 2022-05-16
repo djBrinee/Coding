@@ -59,6 +59,14 @@ Según Kralj, 2022; las principales ventajas son:
 * No puede ser evaluado todo el código de golpe, sino por partes (unidades).
 * No garantiza la eliminación de todos los bugs posibles.
 
+## **Tomando el algoritmo de conversión de números arábigos o "decimales" a números Romanos:**
+### **Cree un documento donde se listen los Requerimientos, Criterios de Aceptación y Casos de Prueba para una aplicación de consola.Los casos de prueba deben ser de dos categorías: End-To-End (desde el UI) y Unitarios (caja blanca, código, bajo nivel)**
+* Para acceder al programa creado pulse [aquí](/App\ArabicToRoman.py)
+* Para acceder al documento pulse [aquí](/Docs\Requirements-Criteria-Cases.md)
+###
+## **Utilizando el lenguaje de su preferencia cree cinco o mas casos de prueba unitarios automatizados utilizando un framework de automatización de pruebas para el algoritmo en cuestion**
+* Para acceder a la codificación de las pruebas pulse [aquí](/App\test_ArabicToRoman.py)
+* Para acceder a la documentación de las pruebas y conceptos teóricos, pulse [aquí](/Docs\Testing.md)
 ## **Referencias bibliográficas**
 * Solano, L. (2012, 10 septiembre). What is Coding Dojo. Lorenzo Solano Martinez. https://lorenzosolano.com/what-is-coding-dojo/
 
