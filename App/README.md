@@ -21,7 +21,7 @@ Assure that your operating system supports the next python and pytest version:
 3. Run the program using the command: ```python FILENAME.py```.
 
 ## **Other documentation**
-* To see the requirements, test cases and other documentation click [here](/Requirements-Criteria-Cases\Docs\Requirements-Criteria-Cases.md).
-* To see the testing documentation, click [here](/Requirements-Criteria-Cases\Docs\Testing.md).
-* To see the code, click [here](Requirements-Criteria-Cases\App\ArabicToRoman.py).
-* To see the unit tests, click [here](/Requirements-Criteria-Cases\Docs\Testing.md).
+* To see the requirements, test cases and other documentation click [here](/Requirements-Criteria-Cases/Docs/Requirements-Criteria-Cases.md).
+* To see the testing documentation, click [here](/Requirements-Criteria-Cases/Docs/Testing.md).
+* To see the code, click [here](/Requirements-Criteria-Cases/App/ArabicToRoman.py).
+* To see the unit tests, click [here](/Requirements-Criteria-Cases/Docs/Testing.md).
