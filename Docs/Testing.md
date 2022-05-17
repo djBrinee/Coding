@@ -24,41 +24,40 @@ def test_ multiplication ():
 
 ## **1. Testing a valid input in range 1 to 500**
 ### **Flow**
-* Function to test: 
-* Input:
-* Expected result:
-* Real Result:
-* Conclusion:
+* Function to test: _IntegerToRoman_
+* Input: 250
+* Expected result: CCL
+* Real Result: CCL
+* Conclusion: Correct
 
 ## **2. Testing a valid input in range 1000 to 100000**
 ### **Flow**
-* Function to test: 
-* Input:
-* Expected result:
-* Real Result:
-* Conclusion:
+* Function to test: _IntegerToRoman_
+* Input: 2500
+* Expected result: MMD
+* Real Result: MMD
+* Conclusion: Correct
 
 ## **3. Testing a invalid input (out of defined range)**
 ### **Flow**
-* Function to test: 
-* Input:
-* Expected result:
-* Real Result:
-* Conclusion:
+* Function to test: _InputValidation_
+* Input: "a"
+* Expected result: False
+* Real Result: None 
+* Conclusion: Missing return case; solved. 
 
 ## **4. Testing a invalid input (string input)**
 ### **Flow**
-* Function to test: 
-* Input:
-* Expected result:
-* Real Result:
-* Conclusion:
+* Function to test: _InputValidation_
+* Input: -1
+* Expected result: False
+* Real Result: None 
+* Conclusion: Missing return case; solved. 
 
 ## **5. Testing a valid input in range 100001 to 1000000**
 ### **Flow**
-* Function to test: 
-* Input:
-* Expected result:
-* Real Result:
-* Conclusion:
-
+* Function to test: _IntegerToRoman_
+* Input: 1000000
+* Expected result: M̄
+* Real Result: M̄
+* Conclusion: Correct

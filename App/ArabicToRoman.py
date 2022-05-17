@@ -25,18 +25,20 @@ def InputValidation(input):
     if (str(input).isnumeric()):
         if(int(input) > 0 and int(input) <= 1000000):
             return True
+        else:
+            return False
     else:
-        False
+        return False
 
 # Function declare to be used as a Main
 def Main():
-    arabicNumber = input("Type an arabic number in the interval: [0, 1000000]: ")
+    arabicNumber = input("Type an arabic number in the interval: [1, 1000000]: ")
     while (True):
         if(InputValidation(arabicNumber)):
             break
         else:
-            arabicNumber = input("Wrong format, be sure that you are typing an integer in the interval: [0, 1000000]\nType it again: ")
+            arabicNumber = input("Wrong format, be sure that you are typing an integer in the interval: [1, 1000000]\nType it again: ")
     return arabicNumber + " in Roman is: " + IntegerToRoman(arabicNumber)
 
-print(Main())
+#print(Main())
 #LastCommit 10: 41 PM 16/5/2022
